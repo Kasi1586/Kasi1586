@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kasi1586
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning web design 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating larger websites 
 - 📫 How to reach me ...
 
 <!---
